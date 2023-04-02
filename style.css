@@ -1,0 +1,78 @@
+.search-bar {
+    margin: 0 auto;
+    width: 1400px;
+    background-color: rgb(238, 238, 238);    
+    
+} 
+
+.submit{
+    padding: 5px;
+    margin: 0 auto;
+
+    width: 1385px;
+    background-color: rgb(238, 238, 238);  
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+.ortala{
+    color:black ;
+    margin: 0 5px 0 590px;
+    text-decoration: none;
+    border-radius: 2px;
+    border: 1px solid;
+    padding: 1px 6px;
+    }
+
+.ortala1 {
+    color: black;
+    text-decoration: none;
+    border-radius: 2px;
+    border: 1px solid;
+    padding: 1px 6px;
+    
+}
+
+.link-section{
+
+    width: 1400px;
+    margin: 0 auto;
+    background-color: darkorchid;
+
+}
+
+.searches{
+    width: 40%;
+    padding: 15px 0 0 0;
+    margin: 2px;
+    float: left;
+    background-color: #7EE5DA;
+}
+
+.help-section{
+    width: 15%;
+    margin: 2px;
+    padding: 10px 0;
+    float: left;
+    background-color: #70CCC2;
+    font-size: small;
+}
+
+.mail-section{
+    width: 44%;
+    margin: 2px;
+    padding: 0 0 5px 0;
+    float: left;
+    background-color: #62B3AA;
+
+}
+
+.last-thing{
+    width: 1400px;
+    font-size: small;
+    margin: 0 auto;
+
+
+
+
+}
